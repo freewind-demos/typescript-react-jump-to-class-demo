@@ -1,5 +1,7 @@
-TypeScript React Hello World Demo
-=================================
+TypeScript React Jump To Class Demo
+===================================
+
+点击一个按钮，跳转到指定的class元素。
 
 ```
 npm install
